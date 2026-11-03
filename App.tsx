@@ -9,7 +9,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.heading}>{"Hear Rate Limits Calculator \n"}</Text>
+      <Text style={styles.heading}>{"Heart Rate Limits Calculator \n"}</Text>
       <Text style={styles.h3}>Enter your age:</Text>
       <TextInput style={styles.input}
         placeholder="Age"
